@@ -1,4 +1,4 @@
-![Pigeon](https://raw.githubusercontent.com/ArnabBir/pigeon-releases/main/assets/icon.png)
+![Pigeon](assets/icon.png)
 
 # Pigeon
 
