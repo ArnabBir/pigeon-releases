@@ -8,7 +8,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](https://github.com/ArnabBir/pigeon-releases/blob/main/LICENSE)
 [![Platforms](https://img.shields.io/badge/Platforms-macOS%20·%20Windows%20·%20Linux-lightgrey?style=flat-square)](https://github.com/ArnabBir/pigeon-releases/releases)
 
-[**Download**](https://github.com/ArnabBir/pigeon-releases/releases) · [**All Releases**](https://github.com/ArnabBir/pigeon-releases/releases) · [**Report an Issue**](https://github.com/ArnabBir/pigeon-releases/issues)
+[**Download**](https://github.com/ArnabBir/pigeon-releases/releases/latest) · [**All Releases**](https://github.com/ArnabBir/pigeon-releases/releases) · [**Report an Issue**](https://github.com/ArnabBir/pigeon-releases/issues)
+
 
 ---
 
