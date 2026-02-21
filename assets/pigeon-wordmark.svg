@@ -1,0 +1,29 @@
+<svg width="620" height="140" viewBox="0 0 620 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="word_lime" x1="36" y1="44" x2="330" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A3E635"/>
+      <stop offset="0.55" stop-color="#BEF264"/>
+      <stop offset="1" stop-color="#E5E7EB"/>
+    </linearGradient>
+    <linearGradient id="badge" x1="510" y1="52" x2="602" y2="88" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A3E635" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#A3E635" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="620" height="140" rx="28" fill="#0B0C10"/>
+
+  <!-- Wordmark -->
+  <text x="40" y="92" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="66" font-weight="800" letter-spacing="0.2" fill="url(#word_lime)">
+    Pigeon
+  </text>
+  <text x="42" y="120" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="18" font-weight="600" letter-spacing="2.2" fill="#9CA3AF">
+    API CLIENT
+  </text>
+
+  <!-- Badge -->
+  <rect x="510" y="50" width="92" height="42" rx="12" fill="url(#badge)" stroke="#A3E635" stroke-opacity="0.35"/>
+  <text x="532" y="79" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="20" font-weight="800" fill="#A3E635">
+    MV3
+  </text>
+</svg>
