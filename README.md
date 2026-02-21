@@ -1,4 +1,4 @@
-![Pigeon](assets/icon.png)
+![Pigeon](https://raw.githubusercontent.com/ArnabBir/pigeon-releases/main/assets/icon.png)
 
 # Pigeon
 
@@ -10,7 +10,6 @@
 
 [**Download**](https://github.com/ArnabBir/pigeon-releases/releases/latest) · [**All Releases**](https://github.com/ArnabBir/pigeon-releases/releases) · [**Report an Issue**](https://github.com/ArnabBir/pigeon-releases/issues)
 
-
 ---
 
 > *Pigeon is a desktop application designed for developers who work across protocols. It brings HTTP, GraphQL, WebSocket, Server Sent Events, TCP, UDP, MQTT, and Socket.IO into a single, refined interface. No browser extensions required. No accounts. No telemetry. Just a clean workspace that stays out of your way.*
@@ -19,7 +18,7 @@
 
 ## Demo
 
-[![Watch Pigeon in Action](assets/thumbnail.png)](https://www.youtube.com/watch?v=b7LVhT8OmOA)
+[![Watch Pigeon in Action](https://img.youtube.com/vi/b7LVhT8OmOA/0.jpg)](https://www.youtube.com/watch?v=b7LVhT8OmOA)
 
 [**Watch the full demo on YouTube**](https://www.youtube.com/watch?v=b7LVhT8OmOA) — See Pigeon in action with HTTP requests, GraphQL queries, WebSocket connections, and more.
 
@@ -46,8 +45,8 @@ All builds are available on the [**Releases**](https://github.com/ArnabBir/pigeo
 
 | Architecture | Format | Link |
 |:--|:--|:--|
-| Apple Silicon (M1, M2, M3, M4) | DMG | [Download from Releases](https://github.com/ArnabBir/pigeon-releases/releases) |
-| Intel (x64) | DMG | [Download from Releases](https://github.com/ArnabBir/pigeon-releases/releases) |
+| Apple Silicon (M1, M2, M3, M4) | DMG | [Download](https://github.com/ArnabBir/pigeon-releases/releases/latest/download/Pigeon-arm64.dmg) |
+| Intel (x64) | DMG | [Download](https://github.com/ArnabBir/pigeon-releases/releases/latest/download/Pigeon.dmg) |
 
 **Homebrew** (recommended):
 
@@ -60,14 +59,14 @@ brew install --cask pigeon
 
 | Architecture | Format | Link |
 |:--|:--|:--|
-| x64 | Setup Installer (.exe) | [Download from Releases](https://github.com/ArnabBir/pigeon-releases/releases) |
+| x64 | Setup Installer (.exe) | [Download](https://github.com/ArnabBir/pigeon-releases/releases/latest/download/Pigeon.exe) |
 
 ### Linux
 
 | Format | Link |
 |:--|:--|
-| AppImage | [Download from Releases](https://github.com/ArnabBir/pigeon-releases/releases) |
-| DEB (Debian, Ubuntu) | [Download from Releases](https://github.com/ArnabBir/pigeon-releases/releases) |
+| AppImage | [Download](https://github.com/ArnabBir/pigeon-releases/releases/latest/download/Pigeon.AppImage) |
+| DEB (Debian, Ubuntu) | [Download](https://github.com/ArnabBir/pigeon-releases/releases/latest/download/Pigeon.deb) |
 
 ## Installation
 
@@ -82,7 +81,7 @@ brew install --cask pigeon
 
 **Manual installation:**
 
-Download the DMG for your architecture from [Releases](https://github.com/ArnabBir/pigeon-releases/releases). Open the disk image and drag Pigeon into Applications.
+Download the latest DMG from [Releases](https://github.com/ArnabBir/pigeon-releases/releases/latest). Open the disk image and drag Pigeon into Applications.
 
 If macOS reports the application as unverified:
 
@@ -92,7 +91,7 @@ sudo xattr -cr /Applications/Pigeon.app
 
 ### Windows
 
-Download the installer from [Releases](https://github.com/ArnabBir/pigeon-releases/releases). Right click the `.exe` file and select *Run as Administrator*. Follow the setup wizard. Pigeon will appear in the Start Menu once complete.
+Download the installer from [Releases](https://github.com/ArnabBir/pigeon-releases/releases/latest). Right click the `.exe` file and select *Run as Administrator*. Follow the setup wizard. Pigeon will appear in the Start Menu once complete.
 
 > Windows Defender may flag unsigned applications. Select *More info* followed by *Run anyway* to proceed.
 
@@ -212,7 +211,7 @@ Licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses
 You may use, distribute, and modify this software under the terms of the Apache 2.0 license. A copy of the license is included in this repository.
 
 ```
-Copyright 2026 Arnab Bir
+Copyright 2025 Arnab Bir
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
