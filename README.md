@@ -212,7 +212,7 @@ Licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses
 You may use, distribute, and modify this software under the terms of the Apache 2.0 license. A copy of the license is included in this repository.
 
 ```
-Copyright 2025 Arnab Bir
+Copyright 2026 Arnab Bir
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
