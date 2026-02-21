@@ -18,9 +18,9 @@
 
 ## Demo
 
-[![Watch Pigeon in Action](https://img.youtube.com/vi/b7LVhT8OmOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=b7LVhT8OmOA)
+[![Watch Pigeon in Action](assets/thumbnail.png)](https://www.youtube.com/watch?v=b7LVhT8OmOA)
 
-[**Watch the full demo on YouTube**](https://www.youtube.com/watch?v=b7LVhT8OmOA)
+[**Watch the full demo on YouTube**](https://www.youtube.com/watch?v=b7LVhT8OmOA) — See Pigeon in action with HTTP requests, GraphQL queries, WebSocket connections, and more.
 
 ---
 
